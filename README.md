@@ -1,4 +1,4 @@
-# ⚡ KEMIWATT Microgrid Monitoring AI OS
+#  KEMIWATT Microgrid Monitoring 
 
 An **AI-powered multi-agent system** designed to monitor, analyze, and optimize microgrid operations for **Kemiwatt** using the **Agno framework** with integrated **Guardrails** for safety, compliance, and data integrity.
 
